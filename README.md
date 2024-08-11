@@ -2,6 +2,7 @@
 
 [![Build Status](https://github.com/ZC-TigerRoot/green/workflows/ci/badge.svg?branch=master)](https://github.com/ZC-TigerRoot/green/actions)
 
+
 自动保持 GitHub 提交状态常绿。
 
 > a commit a day keeps your girlfriend away.
